@@ -48,7 +48,3 @@ func TestGetAPIKey(t *testing.T) {
 		})
 	}
 }
-
-func TestFailure(t *testing.T) {
-	t.Fail()
-}
